@@ -6,6 +6,18 @@ Welcome to the Azure Avatar Demo! This project showcases the integration of Azur
 
 Click the link above to watch a demo of the Azure Avatar in action!
 
+
+## NOTICE
+
+Microsoft is now retiring azure TURN services. Azure TTS avatar was using azure turn services for communication.
+I have added script to install coturn on ubuntu instance. Execute installCoturn.sh to setup your own TURN server.
+
+Refer this medium link -> 
+
+https://raokarthik83.medium.com/azure-avatar-tts-update-migrating-from-azure-turn-to-coturn-14b6ac86d60c
+
+
+
 ## Getting Started
 
 Follow these steps to set up and run the application locally:
